@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SolarBreak AI Assistant</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand-block">
+          <div class="brand-mark">☀</div>
+          <div>
+            <p class="eyebrow">Solar ROI Platform</p>
+            <h1>SolarBreak</h1>
+          </div>
+        </div>
+
+        <div class="panel">
+          <h2>Project focus</h2>
+          <ul>
+            <li>GCC solar feasibility</li>
+            <li>State-by-state ROI comparison</li>
+            <li>Incentive and tax analysis</li>
+            <li>Commercial rooftop planning</li>
+          </ul>
+        </div>
+
+        <div class="panel">
+          <h2>Questionnaire</h2>
+          <ol>
+            <li>Company profile</li>
+            <li>Location and decision priority</li>
+            <li>Premises and available area</li>
+            <li>Power profile</li>
+            <li>Funding model</li>
+            <li>Tax and compliance</li>
+            <li>Sustainability goals</li>
+            <li>Target operational date</li>
+          </ol>
+        </div>
+      </aside>
+
+      <main class="chat-window">
+        <header class="chat-header">
+          <div>
+            <p class="eyebrow">Conversational Agent</p>
+            <h2>Solar ROI advisor</h2>
+          </div>
+          <div class="status-pill">Live</div>
+        </header>
+
+        <section id="chatMessages" class="messages" aria-live="polite"></section>
+
+        <form id="chatForm" class="chat-form">
+          <label for="userInput" class="sr-only">Message</label>
+          <input
+            id="userInput"
+            name="message"
+            type="text"
+            placeholder="Ask about solar feasibility, incentives, or location strategy..."
+            autocomplete="off"
+          />
+          <button type="submit">Send</button>
+        </form>
+      </main>
+    </div>
+
+    <script src="/static/script.js"></script>
+  </body>
+</html>

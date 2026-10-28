@@ -1,0 +1,17 @@
+Opening Prompt: Hi! I’m here to help you plan your new India setup, from choosing a location to figuring out how solar power could cut your energy costs. I’ll ask you a few quick questions, and it’s fine to say ‘not sure’ to any of them. Ready to get started?
+
+1. Let's start with the name of your company. What is the name of your company?
+
+2. Which state in India are you planning to set up? If you haven’t decided yet, which cities or states are you considering, and what matters most to you: talent, costs, incentives, or reliable power?
+
+3. Tell me about the space. Are you building new, buying, or leasing, and roughly how big is it? Is there any roof or open land that could be used for solar panels?
+
+4. How much electricity do you expect to use? Will you run around the clock, and do you rely on diesel generators for backup?
+
+5. Would you prefer to pay upfront and own your solar setup, or go with a pay-as-you-go model where a provider installs and maintains it for you?
+
+6. What kind of business entity will you operate as? Do you expect to be profitable in the first year, and will any part of your work involve manufacturing?
+
+7. Does your company or parent organization have any green or net-zero targets that your India operations need to meet?
+
+8. One final question. When are you hoping to be up and running, and how important is getting approvals quickly?

@@ -1,0 +1,109 @@
+# Solar ROI and Incentive Report: Overseas GCC, Bengaluru, Karnataka
+*Sample only. Same hypothetical client as before: new 5,000 sq m building, HT supply, 24x7 operations, profit-making Indian subsidiary, GST-registered, **250 kWp** owned rooftop system. Market figures were looked up in October 2026 and cross-checked against your files.*
+
+## 1. Summary
+Solar clearly beats grid and diesel power for this client. At a turnkey cost of about **₹1.0 crore**, the system saves about **₹24 lakh in Year 1**, pays back in about **4.6 years after tax**, and earns a **19.8% IRR** over 25 years. Its levelised cost is about **₹3.35/unit**, against **₹5.75–7.00** from the grid and **₹26–33** from diesel. Karnataka has no capital subsidy for commercial rooftop solar, so the incentives that matter are **40% Accelerated Depreciation** and the **5% GST rate**. Karnataka's tariffs are falling, which makes this a good project rather than a spectacular one.
+
+## 2. Mandatory Requirement
+Your new building is above Bengaluru's roughly **2,000 sq m** threshold, so solar is a condition of your occupancy certificate. You would be installing it anyway, and the question is how good the return is.
+
+## 3. Site Solar Resource
+| Factor | Bengaluru |
+|---|---|
+| Specific yield | **1,450–1,600 kWh/kWp/yr** (midpoint 1,525) |
+| Year-1 generation (250 kWp) | **about 3.8 lakh units** |
+| Best / weakest months | **Feb–May** / **Jun–Sep** |
+| Tilt | **12–15°**, south-facing |
+
+## 4. ROI: Solar vs Non-Renewable Power
+
+**What each unit costs you**
+| Source | Cost per kWh |
+|---|---|
+| **Rooftop solar** (25-yr levelised, 10% discount rate, before tax benefits) | **₹3.35** |
+| **Grid** (BESCOM HT commercial energy charge, plus surcharge) | **₹5.75–7.00** |
+| **Diesel generator** (fuel only, at ₹99.56/litre) | **₹26–33** |
+
+- **Capex:** Commercial rooftop systems are quoted at about ₹38–45 per Wp all-in in 2026, so I used **₹40/Wp**, or about ₹1.0 crore for 250 kWp. The market sources are installer sites, so treat this as a planning figure until you have EPC quotes.
+- **Grid:** KERC's three-year tariff order cut HT commercial energy charges, with the commercial rate falling from ₹8 to ₹5.95 per unit in 2025-26 and to ₹5.40 by 2027-28. A pension-and-gratuity surcharge of about 35 paise per unit sits on top. My base case is **₹6.30** and stays flat, because the regulator's own schedule is flat to falling.
+- **Diesel:** Bengaluru diesel was about ₹99.56 per litre in October 2026, and one industry source puts fuel-only generator power at ₹24–30/kWh and all-in cost at ₹28–35.
+
+**Return on a ₹1.0 crore system (base case)**
+| Metric | Result |
+|---|---|
+| Year-1 savings | **₹24.0 lakh** |
+| Simple payback (before tax) | **4.4 years** |
+| After-tax payback | **4.6 years** |
+| 25-year IRR (after tax) | **19.8%** |
+| NPV at 10% | **₹68.7 lakh** |
+| Net after-tax gain over 25 years, after recovering capex | **₹3.2 crore** |
+
+**How robust is it?**
+| Scenario | Year-1 saving | After-tax payback | IRR | NPV at 10% |
+|---|---|---|---|---|
+| Base (₹6.30 flat, ₹40/Wp) | ₹24.0 L | **4.6 yrs** | **19.8%** | ₹68.7 L |
+| Tariff falls to ₹5.75 | ₹21.9 L | 5.0 yrs | 17.9% | ₹55.0 L |
+| Tariff ₹7.00 (your workbook figure) | ₹26.7 L | 4.1 yrs | 22.1% | ₹86.2 L |
+| Tariff rises 3% a year | ₹24.0 L | 4.3 yrs | 22.6% | ₹107.9 L |
+| Capex ₹45/Wp | ₹24.0 L | 5.1 yrs | 17.6% | ₹58.7 L |
+| Worst case (₹5.75 and ₹45/Wp) | ₹21.9 L | 5.6 yrs | **15.9%** | ₹45.0 L |
+
+Even the worst case clears a 15% IRR, which is why the project holds up.
+
+**Three things the headline numbers hide**
+- **Diesel isn't displaced by default.** A grid-tied rooftop system shuts down in an outage, so it cuts your grid bill, not your generator fuel. Displacing diesel needs battery storage, which is a separate business case.
+- **Only the energy charge is offset.** Demand and fixed charges stay, so your bill falls by less than 100% of the solar units' headline value.
+- **The grid is already partly renewable.** Karnataka sources roughly 63–65% of its installed capacity from renewables, so "grid" is a mixed benchmark. I treated it as the conventional-power baseline.
+
+## 5. Government Incentives
+**Counted in the ROI above**
+- **Accelerated Depreciation (40%).** On ₹1.0 crore this is **₹40 lakh** of Year-1 depreciation and a tax saving of about **₹10.1 lakh**, assuming a 25.17% corporate tax rate. Without it, payback stretches from 4.6 to **5.6 years** and IRR drops from 19.8% to **17.3%**. The rate is unchanged, but depreciation now sits in the Income-tax Act 2025, in force from 1 April 2026, and section numbers differ between sources.
+- **Half-year rule:** an asset used for under 180 days in the year gets half the rate. Commissioning after about 1 October therefore gives **20%** in Year 1. This costs little in the long run (IRR 19.5%), but it delays the cash benefit.
+
+**Not counted (upside, or unconfirmed)**
+- **GST at 5%.** The Council cut GST on solar cells and modules from 12% to 5% from 22 September 2025. One source notes that turnkey contracts can be taxed as a composite supply at an effective rate near 8.9%, so confirm this with your EPC. If your Input Tax Credit is fully recoverable, net capex falls about 5% and IRR rises to roughly **20.8%**.
+- **Net metering up to 1 MW.** It adds little for a 24x7 load, since you use every unit on site.
+- **Karnataka Industrial Policy 2025-30.** It replaced the 2020-25 policy and has applied since 8 February 2025, so the ₹ benefits in your scheme PDF (electricity duty exemption, 10-year tax holiday) are from the old version. The new policy is aimed at manufacturers, so whether a GCC qualifies for solar-linked benefits needs KREDL or Invest Karnataka to confirm.
+- **Karnataka GCC Policy 2024-29.** It offers incentives for rent, stipends and EPF contributions, mostly for centres "Beyond Bengaluru". It does not fund solar, but it matters to your overall location decision.
+- **Capital subsidy.** None exists. Commercial rooftop systems are not eligible under the central rooftop subsidy scheme, and the workbook confirms PM Surya Ghar is residential-only.
+- **Section 80-IA tax holiday.** Your workbook lists it for power generators, so it is unlikely to apply to a GCC consuming its own power.
+
+## 6. Vendor Shortlist (Karnataka listings)
+| Vendor | Module | Price per Wp | Warranty | MNRE-approved |
+|---|---|---|---|---|
+| Ani Frontline Exports Pvt Ltd | 330 W | **₹27.27** | **25 years** | No |
+| Essar Technologies | 335 W | ₹40.00 | not listed | No |
+
+These are panel-only marketplace listings. Panels are typically 45–60% of the total project cost, so ₹27/Wp is consistent with the ₹38–45/Wp turnkey range. Neither vendor is flagged MNRE-approved, so ask for certificates before shortlisting.
+
+## 7. How the Regions Compare (250 kWp, self-consumed, ₹1.0 crore capex)
+| Region | Avg tariff (₹/unit) | Year-1 saving | Simple payback |
+|---|---|---|---|
+| **Karnataka** | **6.30** (verified) | **₹24.0 L** | **4.2 yrs** |
+| Maharashtra | 8.5 | ₹32.4 L | 3.1 yrs |
+| Telangana | 7.5 | ₹28.6 L | 3.5 yrs |
+| Gujarat | 6–9 (PDF range) | ₹24–36 L | 2.8–4.2 yrs |
+| Leh | 4.0 | ₹17.0 L | 5.9 yrs |
+
+*Simple payback is capex divided by Year-1 savings, before O&M and tax. Only Karnataka's tariff was re-verified, so the other rows use your workbook and PDF figures and may be overstated in the same way Karnataka's ₹7.00 was.* Higher tariffs in Maharashtra and Telangana give faster paybacks on paper, but Karnataka still wins on talent and ecosystem.
+
+## 8. Data Conflicts: Resolved and Open
+- **GST:** resolved. The PDF's 5% is right and the workbook's 12% is out of date.
+- **Karnataka policies:** the Industrial Policy 2020-25 in your PDF has been replaced by 2025-30. The Renewable Energy Policy is listed as 2022-27, so the workbook is right and the PDF's 2021-26 is not.
+- **Tariff:** your ₹7/unit figure looks high against the current ₹5.95-plus schedule. Confirm your exact BESCOM HT category and bill components.
+- **Open:** the Leh tariff (₹4 in the workbook vs "high" in the PDF), and the Maharashtra, Telangana and Gujarat tariffs, are unverified.
+
+## 9. Assumptions Behind the Numbers
+- Corporate tax of **25.17%** (22% concessional regime plus surcharge and cess). Your PDF uses 30%, which would raise the depreciation benefit, so confirm which regime applies.
+- O&M of **₹0.30/kWh**, in line with ₹0.25–0.35 per kWh from industry sources.
+- An inverter replacement of **₹5 lakh** in Year 12 and **0.5%** annual degradation. Both are my assumptions, not sourced.
+- A **10%** discount rate, a flat tariff, no ITC and no salvage value.
+
+## 10. Next Steps
+1. Get EPC quotes for a 250 kWp system, since all capex here is indicative.
+2. Check with your tax advisor which tax regime and depreciation section apply, and plan commissioning before 1 October to avoid the half-rate year.
+3. Confirm GST treatment (5% vs composite) and Input Tax Credit eligibility.
+4. Ask KREDL and Invest Karnataka whether a services GCC qualifies for any solar-linked state incentive under the 2025-30 policy.
+5. Obtain your actual BESCOM HT tariff schedule and solar tariff, and rerun the model with it.
+
+
